@@ -33,7 +33,7 @@ public class MpGenerator {
         dsc.setDbType(DbType.MYSQL);
         dsc.setDriverName("com.mysql.cj.jdbc.Driver");
         dsc.setUsername("root");
-        dsc.setPassword("root");
+        dsc.setPassword("Hong0210");
         dsc.setUrl("jdbc:mysql://localhost:3306/demodb?serverTimezone=GMT%2B8");
         mpg.setDataSource(dsc);
 
